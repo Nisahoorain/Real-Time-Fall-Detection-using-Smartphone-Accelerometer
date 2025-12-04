@@ -5,8 +5,7 @@ A complete end-to-end **Human Activity Recognition + Fall Detection** system usi
 
 Live Demo: Phone se data → WiFi → Laptop → Real-time Fall Alert!
 
-https://github.com/user/fall-detection-smartphone/assets/video-demo.mp4  
-*(Add your recording later)*
+[https://github.com/user/fall-detection-smartphone/assets/video-demo.mp4  ](https://github.com/Nisahoorain/Real-Time-Fall-Detection-using-Smartphone-Accelerometer/blob/main/demo%20video.mp4)
 
 ## Features
 - 5-class classification: Walking, Running, Standing, Pocket, **Falls**
